@@ -1,0 +1,3 @@
+rootProject.name='BetterLogExample'
+include ':app'
+include ':betterlog'
